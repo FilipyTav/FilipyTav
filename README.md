@@ -51,8 +51,8 @@ I am a Front-end Developer
 
 ---
 
-### Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FilipyTav&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipyTav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ### Stats : -->
+<!---->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FilipyTav&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) -->
+<!---->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipyTav&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
