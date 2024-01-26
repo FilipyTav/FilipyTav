@@ -25,7 +25,7 @@
 
 ### About Me :
 
-I am a Front-end Developer
+I am a Full-Stack Web Developer
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 .
 
